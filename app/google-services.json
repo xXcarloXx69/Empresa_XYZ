@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "816484285075",
+    "firebase_url": "https://myinventario-71bbc-default-rtdb.firebaseio.com",
+    "project_id": "myinventario-71bbc",
+    "storage_bucket": "myinventario-71bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816484285075:android:26085905a96ff6f5552b66",
+        "android_client_info": {
+          "package_name": "com.example.empresa_xyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yz52Pvq2PF_cxn3oGQQQ_ocAQUfco_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
